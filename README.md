@@ -360,10 +360,5 @@ python manage.py runserver
 * Admin-only access controls
 
 ---
-## 👨‍👩‍👧 Team Members
 
-| Name                    | Role                     |
-| ----------------------- | ------------------------ |
-| Aamir Husain            | Testing & Documentation  |
-| Kutbuddin Bohra         | Frontend & Dashboard     |
-| Pragati Vishwakarma     | Backend & ML Integration |
+## Git: https://github.com/Pragativishwakarma/MindWell
