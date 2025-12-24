@@ -297,10 +297,6 @@ pip install -r requirements.txt
 
 This project is for educational and research purposes.
 
-## 👨‍💻 Developer
-
-Developed by Aamir Husain
-
 ## 🤝 Contributing
 
 This is a research project. For questions or suggestions, please open an issue.
